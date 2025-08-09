@@ -17,6 +17,6 @@ console.log("Test git clone ::: ...");
 console.log("enginingngining"); // xander new update
 
 
-console.log('Lol xand'); // moi
+console.log('Lol xand'); // mo
 
-console.log('hakdog'); //xander
+console.log("new push"); // xander
